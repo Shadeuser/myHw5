@@ -2,6 +2,7 @@ package myhw5;
 
 
 
+
 import javax.imageio.stream.ImageInputStream;
 
 public class Car implements Runnable {
